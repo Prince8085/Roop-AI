@@ -1,0 +1,8 @@
+{
+  "name": "RoopAI - Your AI Stylist",
+  "description": "A mobile-first AI styling platform for virtual clothing try-on and hairstyle analysis using Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
